@@ -1,0 +1,7 @@
+This file is created in vs code
+now we are going to push the file into vs code...
+
+1. create/ modify
+2. add
+3. commit
+4. push id
